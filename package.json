@@ -1,0 +1,18 @@
+{
+  "name": "lotus-tools",
+  "version": "1.0.0",
+  "description": "Collection of command-line tools for various Lotus utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maff1989",
+  "license": "MIT",
+  "dependencies": {
+    "@abcpros/bitcore-lib-xpi": "^8.25.43"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.4",
+    "typescript": "^5.0.4"
+  }
+}
